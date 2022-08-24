@@ -19,6 +19,6 @@ This project was created to pass the 'Introduction to Machine Learning' class at
 
 The calculations were made in Python using Jupyter Notebook. The source code is in the file 'Projekt.ipynb'.
 
-The report on the obtained results can be found in the 'Projekt - Raport.pdf' file as well. The presentation (from PowerPoint) of the obtained results can be found in the file 'Bean Classification.pdf'.
+The report on the obtained results can be found in the 'Projekt - Raport.pdf' file as well. The presentation (from PowerPoint) of the obtained results can be found in the file 'Klasyfikacja ziaren fasoli.pdf'.
 
 NOTE: Everything in this project is in polish.
