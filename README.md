@@ -4,9 +4,9 @@ This repository contains my projects about data analysis.
 
 There are:
 - my own projects:
-  - [Dry Bean Dataset Classification](https://github.com/musimartini/Projects/tree/main/own-projects/DryBeanDatasetClassification)
-  - [Hogwart Houses Classification](https://github.com/musimartini/Projects/tree/main/own-projects/Hogwart%20Houses%20Classification)
-<!--  - [Liver Disease](https://github.com/musimartini/Projects/tree/main/own-projects/Liver%20Disease)
+  - [Dry Bean Dataset Classification](https://github.com/musimartini/DryBeanDatasetClassification)
+<!--  - [Hogwart Houses Classification](https://github.com/musimartini/Projects/tree/main/own-projects/Hogwart%20Houses%20Classification)
+  - [Liver Disease](https://github.com/musimartini/Projects/tree/main/own-projects/Liver%20Disease)
   - [Exploratory Data Analysis](https://github.com/musimartini/Projects/tree/main/own-projects/exploratory-data-analysis)-->
 - my project based on sugestions from CodeCademy - open portfolio projects (datasets without direct tasks):
   - [Biodiversity in national parks](https://github.com/musimartini/Projects/tree/main/CodeCademy%20Portfolio%20Projects/Biodiversity%20in%20national%20parks)
