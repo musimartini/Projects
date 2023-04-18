@@ -3,6 +3,8 @@
 This repository contains my projects about data analysis.
 
 There are:
+- my own small projects:
+  - [Exploratory Data Analysis function](https://github.com/musimartini/Projects/tree/main/own-projects/exploratory-data-analysis)
 - my own projects based on sugestions from CodeCademy - open portfolio projects (datasets without direct tasks):
   - [Biodiversity in national parks](https://github.com/musimartini/Projects/tree/main/CodeCademy%20Portfolio%20Projects/Biodiversity%20in%20national%20parks)
   - [Life Expectancy and GDP](https://github.com/musimartini/Projects/tree/main/CodeCademy%20Portfolio%20Projects/Life%20Expectancy%20and%20GDP)
